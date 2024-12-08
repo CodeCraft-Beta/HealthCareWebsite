@@ -3,13 +3,17 @@ This is Health Care Website. I am make Following Section in this Website.
 
 + **Home**
 
-+ **Product**
++ **About Us**
 
-+ **Store**
++ **Doctors**
+
++ **Services**
+
++ **Blog**
 
 Watch more Website Template in my Website.
 
-**Live Demo** - https://codecraft-beta.github.io/WatchStore/
+**Live Demo** - https://codecraft-beta.github.io/HealthCareWebsite/
 
 **Website View** - https://designcraft.odoo.com/watch-store
 
