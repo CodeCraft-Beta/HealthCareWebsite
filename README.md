@@ -15,7 +15,7 @@ Watch more Website Template in my Website.
 
 **Live Demo** - https://codecraft-beta.github.io/HealthCareWebsite/
 
-**Website View** - https://designcraft.odoo.com/watch-store
+**Website View** - https://designcraft.odoo.com/health-care-website
 
 # CodeCraft-Beta
 
